@@ -1,0 +1,100 @@
+LO,Blooms
+"Discern fundamental chemical, materials, mechanical and environmental engineering knowledge, principles and concepts to propose solutions to a humanitarian engineering problem.",Applying
+Identify design requirements from a provided brief and analyse potential solutions using first principles of mathematics and natural and engineering sciences.,Applying
+"Identify societal, health, safety, legal and cultural issues relevant to your project including the Indigenous context, and your consequent responsibilities as an engineer.",Applying
+"Determine appropriate principles of sustainable design and development, including embodied energy, renewable materials, availability, costs, etc, of a proposed solution using a systems approach to design.",Creating
+"Discern the ethical considerations of working with diverse communities and stakeholders, and demonstrate your commitment to the Engineers Australia Code of Ethics and/or the Board of Engineers Malaysia Code of Professional Conduct, and established norms of professional conduct throughout your project.",Analysing
+"Describe project progress and outputs to stakeholders verbally through pitches, in writing through professional engineering documentation, and graphically through drawings and visualisations.",Evaluating
+"Describe the principles of team norms, collaboration and dynamics, define your professional goals and discern the practices that lead to successful teamwork in a multicultural context.",Evaluating
+"Identify, select and derive fundamental mathematical techniques from linear algebra, multi-variable calculus and ordinary differential equations that are essential to engineering applications.",Applying
+Apply mathematical techniques to solve engineering problems.,Applying
+Discuss best practices in the presentation of written mathematical arguments.,Evaluating
+Engage in team discussion on the application of mathematics.,Evaluating
+Discuss requirements of a smart system from component to integrated perspective.,Creating
+"Define programs using Python, discern problem-solving strategies in decomposing problems using algorithms and describe software engineering processes.",Applying
+Select fundamental circuit analysis techniques to solve problems in circuits that contain common electrical and electronic components.,Evaluating
+"Propose a design solution in response to a given scenario through requirements and functional analysis, evaluate that solution from an integrated system perspective.",
+Identify appropriate engineering tools and techniques to develop and validate a solution.,Applying
+Identify the ethical considerations of data collection and analysis in engineering designs that may impact the suitability of solutions.,Applying
+"Describe project progress and outputs to stakeholders in review meetings, demonstrations and documentation.",Creating
+Identify roles and responsibilities within a team and reflect on self and team behaviours that contribute to the successful conduct of a project.,Evaluating
+Determine reactions and internal member forces in simple truss and beam systems and carry out limit state design to select appropriately sized members.,Evaluating
+"Determine the strength of structural materials to inform engineering designs with considerations to performance, cost, sustainability and societal impact.",Analysing
+"Determine the steady-state performance of simple systems involving levers, gears, springs and pulleys using appropriate engineering problem-solving methodologies.",Applying
+"Propose concept designs that solve engineering problems and justify finalised design with considerations of key variables, assumptions and system boundaries.",Applying
+"Identify appropriate engineering tools and techniques to develop, validate and convey designs and solutions.",Applying
+Identify roles and responsibilities within a team and reflect on self and team behaviours that contribute to the successful conduct of a project.,Evaluating
+Translate problem statements into algorithms and implement them in a high level programming language;,Analysing
+"Determine appropriate basic abstract data types, including; stacks, queues, lists, binary trees, priority queues, heaps and hash tables; for specific contexts;",Creating
+Theoretically and experimentally evaluate different implementations of basic abstract data types;,Analysing
+Analyse the efficiency of algorithms by determining their best-case and worst-case big-O time complexity;,Analysing
+Work in teams to analyse algorithms and write programs.,Applying
+"Iteratively apply object-oriented design principles to design small to medium-size software systems, using standard software engineering notations, namely UML class diagrams and UML interaction diagrams.",Analysing
+"Describe the quality of object-oriented software designs, both in terms of meeting user requirements and the effective application of object-oriented design concepts and principles.",Analysing
+"Apply object-oriented programming constructs, such as abstraction, information hiding, inheritance, and polymorphism, to implement object-oriented designs using a programming language (namely, Java).",Analysing
+Apply effective programming strategies to refactor and debug object-oriented implementations systematically and efficiently by using available programming language tools.,Analysing
+"Apply principles of software engineering practice to create object-oriented systems with peers using tools including integrated development environments (IDEs), UML drawing tools, and version control systems.",Evaluating
+"Analyse general problem solving strategies and algorithmic paradigms, and apply them to solving new problems;",Evaluating
+"Prove correctness of programs, analyse their space and time complexities;",Applying
+Compare and contrast various abstract data types and use them appropriately;,Evaluating
+Develop and implement algorithms to solve computational problems.,Evaluating
+"Identify appropriate quality goals for a moderately-sized software development project, including human aspects and security concerns, select an appropriate quality assurance strategy to give confidence that these quality goals can be achieved, and document this strategy appropriately in the context of a software process model;",Analysing
+Apply quality assurance techniques such as modern code reviews to code development artefacts;,Creating
+"Perform systematic, automated unit testing on source code modules, using both specification-based and code-based approaches, utilising automated testing frameworks, including faking and mocking tools;",Applying
+"Perform integration and system testing on a moderately-sized software system, using continuous integration frameworks and tracing tests back to requirements;",Evaluating
+"Select appropriate tools to collect metrics, including test coverage, reliability, and design quality metrics, to analyse the quality of a software development project, and make recommendations based on the results;",Evaluating
+Analyse simple logic circuits;,Evaluating
+Explain and analyse key processor components;,Evaluating
+Explain and analyse computer organisation;,Analysing
+Write and debug simple assembly language programs;,Creating
+Use simulator programs to model computer system components.,Creating
+Model and design flexible software at the architectural level using various tools and techniques from the requirements;,Applying
+"Analyse, design, and refactor software systems taking into consideration various quality attributes and requirements",Evaluating
+Take requirements for systems and develop software designs and architectures following object-oriented principles;,Evaluating
+Select and use appropriate tools for iteratively incrementing the design and architecture of the system;,Creating
+"Evaluate and apply appropriate design patterns, frameworks and architectures in designing software;",Applying
+Justify design decisions in the context of a project and effectively communicate these decisions to project stakeholders,Creating
+Describe industry-standard team-based project management methodologies and apply them across a multi-functional team to achieve optimal project progress,Applying
+Apply soft skills when engaging stakeholders in a consistent and professional manner to determine functional and non-functional requirements,Applying
+Plan and manage the full range of activities in a software engineering project in accordance with the development methodology,Evaluating
+Compare and analyse appropriate industry-standard technologies to determine the optimal combination of software required to support project development,Appplying
+"Assess aspects of quality assurance that are relevant to the context of the project, and evaluate strategies for ensuring quality standards are met for end users",
+"Deliberate professional issues occurring within the development and deployment of software applications, and identify appropriate actions based on human factors, relevant law and industry codes of ethical behaviour.",
+Apply the theories of the relational database model;,
+Develop a sound relational database design;,
+Implement a relational database based on a sound database design;,
+"Manage data that meets user requirements, including queries and transactions;",
+Differentiate non-relational database model and the relational database model;,
+Develop programming structures within a database backend.,
+Analyse critically the network architecture standards for open systems;,
+Analyse critically and apply the ISO reference and Internet models;,
+"Implement programs using internet working concepts, IP addressing, IPC and socket-level interface;",
+Analyse critically the fundamentals and technologies of cabled and wireless physical layer;,
+Analyse critically the fundamentals and technologies of cabled and wireless data-link layer;,
+"Analyse critically and implement the fundamentals and technologies of the network layer, including packet-switching and queueing concepts;",
+"Analyse critically and implement designs based on the functions and architectures of cabled and wireless LAN and WAN, including ALOHA and CSMA/CD/CA models;",
+Implement and evaluate system level designs based on LAN architecture for organisational requirements.,
+Design and implement a software system of a quality acceptable to an external client;,
+"Select and use appropriate tools, techniques and strategies to manage project resources, including time and personnel;",
+"Identify potential sources of risk, including ethical risk, and devise and adopt appropriate strategies to monitor and mitigate these risks;",
+"Choose and follow a software development methodology that is appropriate to the team, project and client, and justify this methodology;",
+"Elicit functional and non-functional requirements, including human aspects requirements, from client representatives and ensure that these are communicated to team members and other stakeholders in an appropriate form",
+"Produce internal documentation of a sufficient quality to support project development activities (including specification, analysis, design, testing) and address relevant security and other risks",
+"Communicate effectively with a diverse range of project stakeholders, including clients, end users, and supervisors",
+"Verify systematically that internal and external project deliverables meet agreed quality standards, such as functionality, security and usability",
+Research relevant and reliable literature to evaluate the state of the field.,
+Analyse a problem and evaluate the potential of a solution or experiment.,
+Appraise a complex engineering problem and investigate it using appropriate research methods and techniques.,
+Integrate foundational and discipline-specific knowledge to solve complex open-ended problems.,
+"Plan the scope and requirements of a research project or experiment, responding to changing requirements and potential interdisciplinary inputs.",
+"Generate research and technical outputs by applying appropriate techniques, resources and modern engineering tools to a complex open-ended engineering problem.",
+"Demonstrate consideration of the ethics and norms which guide engineering practice, including professionalism, innovation and creativity.",
+"Assess the social, health, safety, legal, cultural, commercial and political impacts of the identified project, as appropriate.",
+"Assess the sustainability of your project within the appropriate discipline context, with consideration of the relevant sustainable development goals and indicators.",
+Synthesise the progress and outputs of your project through professional engineering reports and presentations to a range of audiences including the community and industry.,
+"Engage with project collaborators to achieve research outcomes using effective self and/or team management, review and improvement practices. (Applicable to the Clayton-based course)",
+identify and explain big data concepts and technologies;,
+write and interpret parallel database processing algorithms and methods;,
+apply common data analytics and machine learning algorithms in a big data environment;,
+use and evaluate streaming methods in big data processing;,
+use big data streaming technologies.,
