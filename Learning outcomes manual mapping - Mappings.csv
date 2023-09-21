@@ -1,103 +1,4 @@
 LO,Cognitive,Affective,Psychomotor,SOLO
-"Discern fundamental chemical, materials, mechanical and environmental engineering knowledge, principles and concepts to propose solutions to a humanitarian engineering problem.",Understanding,,,Multistructural
-Identify design requirements from a provided brief and analyse potential solutions using first principles of mathematics and natural and engineering sciences.,Analysing,,,Relational
-"Identify societal, health, safety, legal and cultural issues relevant to your project including the Indigenous context, and your consequent responsibilities as an engineer.",Remembering,,,Unistructural
-"Determine appropriate principles of sustainable design and development, including embodied energy, renewable materials, availability, costs, etc, of a proposed solution using a systems approach to design.",Evaluating,,,Multistructural
-"Discern the ethical considerations of working with diverse communities and stakeholders, and demonstrate your commitment to the Engineers Australia Code of Ethics and/or the Board of Engineers Malaysia Code of Professional Conduct, and established norms of professional conduct throughout your project.",Applying,,,Multistructural
-"Describe project progress and outputs to stakeholders verbally through pitches, in writing through professional engineering documentation, and graphically through drawings and visualisations.",Understanding,,,Multistructural
-"Describe the principles of team norms, collaboration and dynamics, define your professional goals and discern the practices that lead to successful teamwork in a multicultural context.",Remembering,,,Multistructural
-"Identify, select and derive fundamental mathematical techniques from linear algebra, multi-variable calculus and ordinary differential equations that are essential to engineering applications.",Remembering,,,Unistructural
-Apply mathematical techniques to solve engineering problems.,Applying,,,Relational
-Discuss best practices in the presentation of written mathematical arguments.,Understanding,,,Multistructural
-Engage in team discussion on the application of mathematics.,Understanding,,,Multistructural
-Discuss requirements of a smart system from component to integrated perspective.,Understanding,,,Multistructural
-"Define programs using Python, discern problem-solving strategies in decomposing problems using algorithms and describe software engineering processes.",Understanding,,,Multistructural
-Select fundamental circuit analysis techniques to solve problems in circuits that contain common electrical and electronic components.,Understanding,,,Multistructural
-"Propose a design solution in response to a given scenario through requirements and functional analysis, evaluate that solution from an integrated system perspective.",Evaluating,,,Relational
-Identify appropriate engineering tools and techniques to develop and validate a solution.,Understanding,,,Unistructural
-Identify the ethical considerations of data collection and analysis in engineering designs that may impact the suitability of solutions.,Understanding,,,Unistructural
-"Describe project progress and outputs to stakeholders in review meetings, demonstrations and documentation.",Understanding,,,Multistructural
-Identify roles and responsibilities within a team and reflect on self and team behaviours that contribute to the successful conduct of a project.,Analysing,,,Relational
-Determine reactions and internal member forces in simple truss and beam systems and carry out limit state design to select appropriately sized members.,Evaluating,,,Multistructural
-"Determine the strength of structural materials to inform engineering designs with considerations to performance, cost, sustainability and societal impact.",Evaluating,,,Multistructural
-"Determine the steady-state performance of simple systems involving levers, gears, springs and pulleys using appropriate engineering problem-solving methodologies.",Evaluating,,,Multistructural
-"Propose concept designs that solve engineering problems and justify finalised design with considerations of key variables, assumptions and system boundaries.",Creating,,,Extended Abstract
-"Identify appropriate engineering tools and techniques to develop, validate and convey designs and solutions.",Creating,,,Extended Abstract
-Identify roles and responsibilities within a team and reflect on self and team behaviours that contribute to the successful conduct of a project.,Evaluating,,,Extended Abstract
-Translate problem statements into algorithms and implement them in a high level programming language;,Applying,,,Relational
-"Determine appropriate basic abstract data types, including; stacks, queues, lists, binary trees, priority queues, heaps and hash tables; for specific contexts;",Evaluating,,,Multistructural
-Theoretically and experimentally evaluate different implementations of basic abstract data types;,Evaluating,,,Relational
-Analyse the efficiency of algorithms by determining their best-case and worst-case big-O time complexity;,Analysis,,,Relational
-Work in teams to analyse algorithms and write programs.,Analysis,,,Relational
-"Iteratively apply object-oriented design principles to design small to medium-size software systems, using standard software engineering notations, namely UML class diagrams and UML interaction diagrams.",Evaluating,,,Relational
-"Describe the quality of object-oriented software designs, both in terms of meeting user requirements and the effective application of object-oriented design concepts and principles.",Understanding,,,Multistructural
-"Apply object-oriented programming constructs, such as abstraction, information hiding, inheritance, and polymorphism, to implement object-oriented designs using a programming language (namely, Java).",Applying,,,Relational
-Apply effective programming strategies to refactor and debug object-oriented implementations systematically and efficiently by using available programming language tools.,Applying,-,,Relational
-"Apply principles of software engineering practice to create object-oriented systems with peers using tools including integrated development environments (IDEs), UML drawing tools, and version control systems.",Applying,-,,Relational
-"Analyse general problem solving strategies and algorithmic paradigms, and apply them to solving new problems;",Applying,-,,Relational
-"Prove correctness of programs, analyse their space and time complexities;",Evaluating,-,,Relational
-Compare and contrast various abstract data types and use them appropriately;,Evaluating,Organisation,,Relational
-Develop and implement algorithms to solve computational problems.,Applying,Characterisation,,Relational
-"Identify appropriate quality goals for a moderately-sized software development project, including human aspects and security concerns, select an appropriate quality assurance strategy to give confidence that these quality goals can be achieved, and document this strategy appropriately in the context of a software process model;",evaluating,Valuing,,Multistructural
-Apply quality assurance techniques such as modern code reviews to code development artefacts;,Applying,-,,Relational
-"Perform systematic, automated unit testing on source code modules, using both specification-based and code-based approaches, utilising automated testing frameworks, including faking and mocking tools;",Applying,Responding,,Multistructural
-"Perform integration and system testing on a moderately-sized software system, using continuous integration frameworks and tracing tests back to requirements;",Applying,Responding,,Multistructural
-"Select appropriate tools to collect metrics, including test coverage, reliability, and design quality metrics, to analyse the quality of a software development project, and make recommendations based on the results;",Creating,Responding,,Relational
-Analyse simple logic circuits;,Analysing,-,,Relational
-Explain and analyse key processor components;,Evaluating,Valuing,,Relational
-Explain and analyse computer organisation;,Evaluating,Valuing,,Relational
-Write and debug simple assembly language programs;,Applying,Responding,,Unistructural
-Use simulator programs to model computer system components.,Applying,Receiving,,Relational
-Model and design flexible software at the architectural level using various tools and techniques from the requirements;,Evaluating,Organisation,,Relational
-"Analyse, design, and refactor software systems taking into consideration various quality attributes and requirements",Evaluating,Organisation,,Relational
-Take requirements for systems and develop software designs and architectures following object-oriented principles;,Creating,-,,Relational
-Select and use appropriate tools for iteratively incrementing the design and architecture of the system;,Applying,Valuing,,Multistructural
-"Evaluate and apply appropriate design patterns, frameworks and architectures in designing software;",Evaluating,Valuing,,Relational
-Justify design decisions in the context of a project and effectively communicate these decisions to project stakeholders,,Valuing,,
-Describe industry-standard team-based project management methodologies and apply them across a multi-functional team to achieve optimal project progress,Applying,Responding,,Relational
-Apply soft skills when engaging stakeholders in a consistent and professional manner to determine functional and non-functional requirements,Applying,-,,Relational
-Plan and manage the full range of activities in a software engineering project in accordance with the development methodology,Creating,Organisation,,Extended abstract
-Compare and analyse appropriate industry-standard technologies to determine the optimal combination of software required to support project development,Evaluating,Organisation,,Relational
-"Assess aspects of quality assurance that are relevant to the context of the project, and evaluate strategies for ensuring quality standards are met for end users",Evaluating,-,,Extended abstract
-"Deliberate professional issues occurring within the development and deployment of software applications, and identify appropriate actions based on human factors, relevant law and industry codes of ethical behaviour.",Analysing,Organisation,,Extended abstract
-Apply the theories of the relational database model;,Applying,-,,Relational
-Develop a sound relational database design;,Applying,-,,None
-Implement a relational database based on a sound database design;,Applying,-,,None
-"Manage data that meets user requirements, including queries and transactions;",Evaluating,Organisation,,Relational
-Differentiate non-relational database model and the relational database model;,Analysing,Valuing,,Relational
-Develop programming structures within a database backend.,Creating,-,,Extended abstract
-Analyse critically the network architecture standards for open systems;,Analysing,-,,Relational
-Analyse critically and apply the ISO reference and Internet models;,Analysing,-,,Relational
-"Implement programs using internet working concepts, IP addressing, IPC and socket-level interface;",Applying,-,,Relational
-Analyse critically the fundamentals and technologies of cabled and wireless physical layer;,Analysing,-,,Relational
-Analyse critically the fundamentals and technologies of cabled and wireless data-link layer;,Analysing,-,,Relational
-"Analyse critically and implement the fundamentals and technologies of the network layer, including packet-switching and queueing concepts;",Analysing,-,,Relational
-"Analyse critically and implement designs based on the functions and architectures of cabled and wireless LAN and WAN, including ALOHA and CSMA/CD/CA models;",Analysing,-,,Relational
-Implement and evaluate system level designs based on LAN architecture for organisational requirements.,Evaluating,Valuing,,Relational
-Design and implement a software system of a quality acceptable to an external client;,Evaluating,Organisation,,Relational
-"Select and use appropriate tools, techniques and strategies to manage project resources, including time and personnel;",Applying,Valuing,,Multistructural
-"Identify potential sources of risk, including ethical risk, and devise and adopt appropriate strategies to monitor and mitigate these risks;",Evaluating,Valuing,,Relational
-"Choose and follow a software development methodology that is appropriate to the team, project and client, and justify this methodology;",Evaluating,Responding,,Relational
-"Elicit functional and non-functional requirements, including human aspects requirements, from client representatives and ensure that these are communicated to team members and other stakeholders in an appropriate form",Analysing,-,,Relational
-"Produce internal documentation of a sufficient quality to support project development activities (including specification, analysis, design, testing) and address relevant security and other risks",Creating,Valuing,,Relational
-"Communicate effectively with a diverse range of project stakeholders, including clients, end users, and supervisors",Applying,Responding,,Multistructural
-"Verify systematically that internal and external project deliverables meet agreed quality standards, such as functionality, security and usability",Evaluating,-,,Relational
-Research relevant and reliable literature to evaluate the state of the field.,Evaluating,Valuing,,Extended abstract
-Analyse a problem and evaluate the potential of a solution or experiment.,Evaluating,Valuing,,Extended abstract 
-Appraise a complex engineering problem and investigate it using appropriate research methods and techniques.,Evaluating,Organisation,,Extended abstract 
-Integrate foundational and discipline-specific knowledge to solve complex open-ended problems.,Analysing,Organisation,,Extended abstract
-"Plan the scope and requirements of a research project or experiment, responding to changing requirements and potential interdisciplinary inputs.",Creating,Organisation,,Extended abstract
-"Generate research and technical outputs by applying appropriate techniques, resources and modern engineering tools to a complex open-ended engineering problem.",Creating,-,,Extended abstract
-"Demonstrate consideration of the ethics and norms which guide engineering practice, including professionalism, innovation and creativity.",Applying,Responding,,Extended abstract
-"Assess the social, health, safety, legal, cultural, commercial and political impacts of the identified project, as appropriate.",Evaluating,-,,Extended abstract
-"Assess the sustainability of your project within the appropriate discipline context, with consideration of the relevant sustainable development goals and indicators.",Evaluating,-,,Extended abstract
-Synthesise the progress and outputs of your project through professional engineering reports and presentations to a range of audiences including the community and industry.,Creating,Organisation,,Extended abstract
-"Engage with project collaborators to achieve research outcomes using effective self and/or team management, review and improvement practices. (Applicable to the Clayton-based course)",Applying,-,,Extended abstract
-identify and explain big data concepts and technologies;,Creating,-,,Relational
-write and interpret parallel database processing algorithms and methods;,Applying,Responding,,Relational
-apply common data analytics and machine learning algorithms in a big data environment;,Applying,-,,Relational
-use and evaluate streaming methods in big data processing;,Evaluating,-,,Extended abstract
-use big data streaming technologies.,Appplying,Recieving,,Relational
 be critical and creative thinkers who are able to communicate effectively and perceptively to a variety of key stakeholders,,Responding,,
 produce innovative solutions to problems or opportunities by applying research skills to business challenges,,,,
 be responsible and effective global citizens who engage in an internationalised world by being able to demonstrate cross cultural competencies and empathy whilst acting ethically and sustainably,,Characterisation,,
@@ -109,116 +10,261 @@ critically research and explore complex challenges to create and communicate inn
 "demonstrate broad technical and soft skills aligned to innovation, to deliver value to people, businesses and society",,Valuing,,
 "understand and be able to apply frameworks and methodologies that enable, the analysis of complex issues and the development of solutions that are creative, novel and sustainable",,,,
 "communicate and rationalise a point of view that is evidence-based, persuasive and compelling.",,Responding,,
-Apply appropriate design methodology and engineering fundamentals such as mechanisms and electronics to design a mechatronics system that solves a manufacturing problem.,,,,
-"Use appropriate techniques, resources and modern engineering tools to achieve project goals.",,,,
-Justify and communicate technical details of a mechatronics solution(s) in written and oral forms.,,,,
-"Reflect on teamwork, project management, leadership and conflict resolution in the context of group projects and activities.",,Organisation,,
-Conduct and deliver projects in an organised and coherent manner using professional management tools within the given time frame.,,,,
-Demonstrate an understanding of smart manufacturing through project development.,,Valuing,,
-"describe the concepts of EIA, ERA and EMS",,Recieving,,
-"determine the role of these assessments and management systems in society, especially the relevant environmental legislation, policies, codes of practice and local/international standards",,Organisation,,
-"comprehend the government, industry and community perspectives on engineering projects",,Valuing,,
+Relate bioprocess organisms and their nutrient requirement to bioprocess considerations.,,Organization,Perception,
+Solve engineering problems related to design and operation of bioreactors.,,Characterisation,-,
+"Apply principles of fluid flow, mixing, heat transfer and mass transfer to analysis of bioreactor performance.",,-,-,
+Operate bioreactor and evaluate the performance of cell growth under different operating conditions.,,"Responding, Valuing",-,
 "
-apply key concepts of life cycle analysis, environmental auditing, waste prevention, cleaner production, community consultation, and economic analysis in engineering projects",,,,
-"
-assess various types of environmental impact assessment, risk evaluation and environmental management system methodologies",,Valuing,,
-prepare and present a group project based on the knowledge derived in EIA/ERA and EMS.,,Responding,,
+Address technical and practical issues in commercial bioprocessing by principles of biochemical engineering.",,-,-,
 Describe the overall architecture of an autonomous vehicle (AV) system.,,Recieving,,
 "
 Apply learned concepts to design algorithms for different functionalities of the AV system, such as localisation, perception, planning and control.",,Responding,,
 Integrate and evaluate the AV system including testing and validation of algorithms and decision-making of the system.,,Responding,,
 Critically appraise the different aspects of the AV system and its interactions in the urban networks.,,,,
 "Effectively communicate findings, insights or professional recommendations to specialist and/or non-specialist audiences.",,Responding,,
-Apply project evaluation techniques including the triple bottom line against the overall business model.,,Organisation,,
-"Identify the elements of the project life cycle, including plan, control, and organise and allocate resources.",,Organisation,,
-"Evaluate and apply the basic tools and techniques to plan, organise and manage a project.",,Valuing,,
-"Identify strategic constraints in managing the scope, time, cost and quality components.",,Recieving,,
-"Discuss professional responsibility, occupational health and safety and ethical conduct.",,Valuing,,
-Describe the purpose of enterprise architectures and the underlying principles of their design;,,Responding,,
-Explain individual IT systems and services as interrelated components of an enterprise-wide platform;,,Valuing,,
+Appraise a multidisciplinary engineering project brief as part of a design team.,,,,
+Generate concept designs that meet multidisciplinary criteria as part of a team.,,,,
+Design components of a multi-disciplinary engineering project.,,,,
+Construct construction-standard details and drawings of the design.,,,,
+"Generate oral, written and visual communication skills suitable for professional practice.",,,,
+"Formulate a conceptual design for a bridge considering various types of bridges, their components, and methods of construction.",,,,
+"Identify and calculate the loads to which a bridge is subjected, according to first principles and relevant codes of practice.",,,Mechanism,
+Determine the structural behaviour various bridge types quantitatively and qualitatively using relevant hand- and computer-based methods.,,,Complex Overt Response,
+Design prestressed concrete beams for service and strength requirements.,,,Mechanism,
+"Describe the reliability basis for limit state design and its use in bridge assessment, including descriptions of the basic variables",,,Complex Overt Response,
+"Discuss bridge inspection and management procedures, including levels of assessment and condition rating approaches.",,,Complex Overt Response,
+Work effectively in a bridge design team and communicate engineering designs.,,,Complex Overt Response,
+Apply project evaluation techniques including the triple bottom line against the overall business model.,,Organisation,Adaptation,
+"Identify the elements of the project life cycle, including plan, control, and organise and allocate resources.",,Organisation,Complex Overt Response,
+"Evaluate and apply the basic tools and techniques to plan, organise and manage a project.",,Valuing,Mechanism,
+"Identify strategic constraints in managing the scope, time, cost and quality components.",,Recieving,Perception,
+"Discuss professional responsibility, occupational health and safety and ethical conduct.",,Valuing,Perception,
+"
+Construct C language computer programs that deploy standard data types, arrays, control statements, functions, file processing, pointers, strings, recursion, arrays of pointers, linked lists, binary tree data structures and dynamic memory allocations.",,-,-,
+"
+Construct basic assembly language programs that target a reduced instruction set computer (RISC) architecture.",,-,-,
+"
+Evaluate the functionality and performance of these programs using software development tools.",,Valuing,-,
+"
+Describe the operation of computer arithmetic, assemblers and compilers, a RISC processor datapath and solve related problems.",,Responding,Perception,
+"Solve real-world engineering problems by designing ladder logic diagrams for programmable logic controllers (PLC) using components such as normally open contacts, normally closed contacts, relays, timers and counters.",,"Characterisation, Organization",Origination,
+"
+Analyse and partition DC and AC electrical circuits to interpret and solve problems in design by applying circuit analysis techniques and creating appropriate circuit layouts.",,,-,
+"
+Construct and compute circuit simulations, reflecting upon simulation outputs to conclude upon appropriate designs.",,,-,
+"
+Determine appropriate techniques to provide solutions for the transient response of first and second order electrical circuits, and make conclusions on circuit design based upon these results.",,,-,
+"
+Describe and define appropriate models for the behaviour of key semiconductor electronic components (diodes, transistors, operational amplifiers) in circuits and summarise their uses.",,,Perception,
+Determine and compute the behaviour of RLC circuits to make design decisions for electrical circuits.,,,-,
+"
+Interpret and apply mathematical optimisation, linear algebra, and supervised and unsupervised learning to computer vision problems.",,-,-,
+"
+Simulate cameras using projective and multi-view geometry to design model-based vision systems and algorithms that extract 3D and rotational information from images, alongside methods for image registration and stitching.",,Organization,Origination,
+"Differentiate between elements of the human visual system and computer vision pipelines, and reflect on the consequences for the design of algorithms for scene understanding.",,valuing,Perception,
+"Generate and document implementations of low, mid and high-level vision processes such as filtering and structure from motion, image segmentation and clustering, and model fitting and tracking.",,-,-,
+"Design ethical machine learning solutions to problems in computer vision, such as image classification, 3D reconstruction and pose estimation, object detection and semantic segmentation, by critically appraising information and publications.",,Organization,Origination,
+"
+Demonstrate the development, training and deployment of computer vision algorithms using a high-level programming language.",,Responding,-,
+"
+Identify the limits of human visual and aural perception, and how they can be exploited for bit rate reduction.",,Responding,Perception,
+"
+Describe the structure of modern multimedia compression systems, and how they exploit the characteristics of both the media itself and human consumers of the media.",,Responding,Perception,
+"
+Explain how media can be characterised and described, including methods that allow similarities to be automatically identified (e.g. music matching services).",,-,Set,
+"Compute the end-to-end delay performance of modern Internet protocols supporting media streaming, and relate this to service requirements for on-demand and communicative multimedia services.",,Organization,Perception,
+"
+Explain the methods of digital rights managements systems, including the role of encryption and key management, and the importance of such systems to enable high-value digital content retrieval services such as movies-on-demand.",,-,Set,
+"
+As part of a team, research and investigate an area of interest beyond lecture material, involving software simulations and analysis of results.",,Organization,-,
+"
+Describe concepts and fundamentals of deep learning, such as the backpropagation algorithm and adversarial learning.",,Responding,Perception,
+"Discern and appreciate various forms of deep neural networks, such as multilayer perceptrons, convolution neural networks and recurrent neural networks.",,-,-,
+"
+Interpret and apply the mathematics of deep learning, such as stochastic optimisation.",,-,-,
+"
+Design deep learning solutions to problems in computer vision, natural language processing and signal processing. Examples are image classification, object detection, sequence modelling and filter design.",,Organization,Origination,
+"
+Demonstrate the training and deployment of neural networks using a high level programming language.",,Responding,-,
+"
+Appraise critically the sources of information and contents of scientific publications and choose relevant information.",,Responding,Perception,
+"
+Interpret and summarise the principles, instrumentation, theory, mathematical models, simulation techniques, fabrication and manufacturing techniques related to Microelectromechanical Systems (MEMS) and Organic electronics based devices",,-,-,
+"
+Design and develop simple MEMS devices, organic electronic devices (such as Organic Light Emitting Diode) and theoretical models involving multi physics",,Organization,Origination,
+"
+Select suitable electronic components and develop simple MEMS or Organic electronic device based systems, evaluate structural and material properties of Micro/Nano devices through simulation studies",,"Responding, Valuing",Perception,
+"
+Summarise fundamentals of nanotechnology and propose research opportunities in designing Micro technologies",,Valuing,-,
+"Apply appropriate theories to effectively design solid-state lighting or SSL systems, including the visual and non-visual effects, colour spaces, quality metrics, efficiency, LED characteristics and other aspects such as LED drivers, spectral sensors, smart lighting control and visible light communications of Li-Fi.",,-,-,
+"
+Assess the energy consumption of traditional versus SSL-based lighting approaches",,-,-,
+"
+Design and implement a system to solve a given complex engineering problem in the field of Intelligent lighting control using the knowledge of SSL.",,Organization,Origination,
+"
+Conduct experiments to investigate various relationships in photometry, radiometry, colour quality, the energy consumption of light sources and the implementation of IoT-based lighting control.",,Organization,-,
+"
+Assess critically the research literature in the field of solid-state lighting to evaluate recent findings and directions in SSL technology",,Valuing,,
+"describe the concepts of EIA, ERA and EMS",,Recieving,,
+"determine the role of these assessments and management systems in society, especially the relevant environmental legislation, policies, codes of practice and local/international standards",,Organization,,
+"comprehend the government, industry and community perspectives on engineering projects",,Valuing,,
+"
+apply key concepts of life cycle analysis, environmental auditing, waste prevention, cleaner production, community consultation, and economic analysis in engineering projects",,,,
+"
+assess various types of environmental impact assessment, risk evaluation and environmental management system methodologies",,Valuing,,
+prepare and present a group project based on the knowledge derived in EIA/ERA and EMS.,,Responding,,
+Apply theoretical engineering knowledge outside of the classroom.,,,Guided Response,
+Demonstrate understanding of engineering practice expectations and observe health and safety rules during professional practice experiences.,,,Guided Response,
+Value engineering ethical principles and responsibilities and satisfy professional standards for assigned engineering tasks.,,,Guided Response,
+Demonstrate the ability to communicate engineering tasks to relevant parties and write professional quality technical reports.,,,,
+Demonstrate an ability to work independently and to collaborate with colleagues on common tasks effectively.,,,Complete Overt Response,
+Demonstrate the willingness and ability to engage in life-long learning.,,,,
+"Identify, select and derive fundamental mathematical techniques from linear algebra, multi-variable calculus and ordinary differential equations that are essential to engineering applications.",Remembering,,,Unistructural
+Apply mathematical techniques to solve engineering problems.,Applying,,,Relational
+Discuss best practices in the presentation of written mathematical arguments.,Understanding,,,Multistructural
+Engage in team discussion on the application of mathematics.,Understanding,,,Multistructural
+Determine reactions and internal member forces in simple truss and beam systems and carry out limit state design to select appropriately sized members.,Evaluating,,,Multistructural
+"Determine the strength of structural materials to inform engineering designs with considerations to performance, cost, sustainability and societal impact.",Evaluating,,,Multistructural
+"Determine the steady-state performance of simple systems involving levers, gears, springs and pulleys using appropriate engineering problem-solving methodologies.",Evaluating,,,Multistructural
+"Propose concept designs that solve engineering problems and justify finalised design with considerations of key variables, assumptions and system boundaries.",Creating,,,Extended Abstract
+"Identify appropriate engineering tools and techniques to develop, validate and convey designs and solutions.",Creating,,,Extended Abstract
+Identify roles and responsibilities within a team and reflect on self and team behaviours that contribute to the successful conduct of a project.,Evaluating,,,Extended Abstract
+"Discern fundamental chemical, materials, mechanical and environmental engineering knowledge, principles and concepts to propose solutions to a humanitarian engineering problem.",Understanding,,,Multistructural
+Identify design requirements from a provided brief and analyse potential solutions using first principles of mathematics and natural and engineering sciences.,Analysing,,,Relational
+"Identify societal, health, safety, legal and cultural issues relevant to your project including the Indigenous context, and your consequent responsibilities as an engineer.",Remembering,,,Unistructural
+"Determine appropriate principles of sustainable design and development, including embodied energy, renewable materials, availability, costs, etc, of a proposed solution using a systems approach to design.",Evaluating,,,Multistructural
+"Discern the ethical considerations of working with diverse communities and stakeholders, and demonstrate your commitment to the Engineers Australia Code of Ethics and/or the Board of Engineers Malaysia Code of Professional Conduct, and established norms of professional conduct throughout your project.",Applying,,,Multistructural
+"Describe project progress and outputs to stakeholders verbally through pitches, in writing through professional engineering documentation, and graphically through drawings and visualisations.",Understanding,,,Multistructural
+"Describe the principles of team norms, collaboration and dynamics, define your professional goals and discern the practices that lead to successful teamwork in a multicultural context.",Remembering,,,Multistructural
+Discuss requirements of a smart system from component to integrated perspective.,Understanding,,-,Multistructural
+"Define programs using Python, discern problem-solving strategies in decomposing problems using algorithms and describe software engineering processes.",Understanding,,Perception,Multistructural
+Select fundamental circuit analysis techniques to solve problems in circuits that contain common electrical and electronic components.,Understanding,,Perception,Multistructural
+"Propose a design solution in response to a given scenario through requirements and functional analysis, evaluate that solution from an integrated system perspective.",Evaluating,,Origination,Relational
+Identify appropriate engineering tools and techniques to develop and validate a solution.,Understanding,,Perception,Unistructural
+Identify the ethical considerations of data collection and analysis in engineering designs that may impact the suitability of solutions.,Understanding,,Perception,Unistructural
+"Describe project progress and outputs to stakeholders in review meetings, demonstrations and documentation.",Understanding,,Perception,Multistructural
+Identify roles and responsibilities within a team and reflect on self and team behaviours that contribute to the successful conduct of a project.,Analysing,,Perception,Relational
+"Analyse general problem solving strategies and algorithmic paradigms, and apply them to solving new problems;",Applying,-,-,Relational
+"Prove correctness of programs, analyse their space and time complexities;",Evaluating,-,-,Relational
+Compare and contrast various abstract data types and use them appropriately;,Evaluating,Organisation,-,Relational
+Develop and implement algorithms to solve computational problems.,Applying,Characterisation,-,Relational
+Translate problem statements into algorithms and implement them in a high level programming language;,Applying,,,Relational
+"Determine appropriate basic abstract data types, including; stacks, queues, lists, binary trees, priority queues, heaps and hash tables; for specific contexts;",Evaluating,,,Multistructural
+Theoretically and experimentally evaluate different implementations of basic abstract data types;,Evaluating,,,Relational
+Analyse the efficiency of algorithms by determining their best-case and worst-case big-O time complexity;,Analysis,,,Relational
+Work in teams to analyse algorithms and write programs.,Analysis,,,Relational
+"Iteratively apply object-oriented design principles to design small to medium-size software systems, using standard software engineering notations, namely UML class diagrams and UML interaction diagrams.",Evaluating,,,Relational
+"Describe the quality of object-oriented software designs, both in terms of meeting user requirements and the effective application of object-oriented design concepts and principles.",Understanding,,,Multistructural
+"Apply object-oriented programming constructs, such as abstraction, information hiding, inheritance, and polymorphism, to implement object-oriented designs using a programming language (namely, Java).",Applying,,,Relational
+Apply effective programming strategies to refactor and debug object-oriented implementations systematically and efficiently by using available programming language tools.,Applying,-,-,Relational
+"Apply principles of software engineering practice to create object-oriented systems with peers using tools including integrated development environments (IDEs), UML drawing tools, and version control systems.",Applying,-,-,Relational
+"Identify appropriate quality goals for a moderately-sized software development project, including human aspects and security concerns, select an appropriate quality assurance strategy to give confidence that these quality goals can be achieved, and document this strategy appropriately in the context of a software process model;",evaluating,Valuing,Perception,Multistructural
+Apply quality assurance techniques such as modern code reviews to code development artefacts;,Applying,-,-,Relational
+"Perform systematic, automated unit testing on source code modules, using both specification-based and code-based approaches, utilising automated testing frameworks, including faking and mocking tools;",Applying,Responding,-,Multistructural
+"Perform integration and system testing on a moderately-sized software system, using continuous integration frameworks and tracing tests back to requirements;",Applying,Responding,-,Multistructural
+"Select appropriate tools to collect metrics, including test coverage, reliability, and design quality metrics, to analyse the quality of a software development project, and make recommendations based on the results;",Creating,Responding,Origination,Relational
+Model and design flexible software at the architectural level using various tools and techniques from the requirements;,Evaluating,Organisation,Origination,Relational
+"Analyse, design, and refactor software systems taking into consideration various quality attributes and requirements",Evaluating,Organisation,Origination,Relational
+Take requirements for systems and develop software designs and architectures following object-oriented principles;,Creating,-,-,Relational
+Select and use appropriate tools for iteratively incrementing the design and architecture of the system;,Applying,Valuing,Origination,Multistructural
+"Evaluate and apply appropriate design patterns, frameworks and architectures in designing software;",Evaluating,Valuing,-,Relational
+Justify design decisions in the context of a project and effectively communicate these decisions to project stakeholders,,Valuing,Origination,
+Analyse simple logic circuits;,Analysing,-,-,Relational
+Explain and analyse key processor components;,Evaluating,Valuing,Set,Relational
+Explain and analyse computer organisation;,Evaluating,Valuing,Set,Relational
+Write and debug simple assembly language programs;,Applying,Responding,-,Unistructural
+Use simulator programs to model computer system components.,Applying,Receiving,-,Relational
+Describe industry-standard team-based project management methodologies and apply them across a multi-functional team to achieve optimal project progress,Applying,Responding,Perception,Relational
+Apply soft skills when engaging stakeholders in a consistent and professional manner to determine functional and non-functional requirements,Applying,-,-,Relational
+Plan and manage the full range of activities in a software engineering project in accordance with the development methodology,Creating,Organisation,-,Extended abstract
+Compare and analyse appropriate industry-standard technologies to determine the optimal combination of software required to support project development,Evaluating,Organisation,-,Relational
+"Assess aspects of quality assurance that are relevant to the context of the project, and evaluate strategies for ensuring quality standards are met for end users",Evaluating,-,-,Extended abstract
+"Deliberate professional issues occurring within the development and deployment of software applications, and identify appropriate actions based on human factors, relevant law and industry codes of ethical behaviour.",Analysing,Organisation,Perception,Extended abstract
+Apply the theories of the relational database model;,Applying,-,-,Relational
+Develop a sound relational database design;,Applying,-,-,None
+Implement a relational database based on a sound database design;,Applying,-,-,None
+"Manage data that meets user requirements, including queries and transactions;",Evaluating,Organisation,-,Relational
+Differentiate non-relational database model and the relational database model;,Analysing,Valuing,Perception,Relational
+Develop programming structures within a database backend.,Creating,-,-,Extended abstract
+Design and implement a software system of a quality acceptable to an external client;,Evaluating,Organisation,Origination,Relational
+"Select and use appropriate tools, techniques and strategies to manage project resources, including time and personnel;",Applying,Valuing,Perception,Multistructural
+"Identify potential sources of risk, including ethical risk, and devise and adopt appropriate strategies to monitor and mitigate these risks;",Evaluating,Valuing,Perception,Relational
+"Choose and follow a software development methodology that is appropriate to the team, project and client, and justify this methodology;",Evaluating,Responding/Valuing,,Relational
+"Elicit functional and non-functional requirements, including human aspects requirements, from client representatives and ensure that these are communicated to team members and other stakeholders in an appropriate form",Analysing,-,,Relational
+"Produce internal documentation of a sufficient quality to support project development activities (including specification, analysis, design, testing) and address relevant security and other risks",Creating,Valuing,,Relational
+"Communicate effectively with a diverse range of project stakeholders, including clients, end users, and supervisors",Applying,Responding,,Multistructural
+"Verify systematically that internal and external project deliverables meet agreed quality standards, such as functionality, security and usability",Evaluating,-,,Relational
+Set achievable and measurable goals;,,,Set,
+Identify useful theoretical knowledge that has been covered in prior coursework and knowledge that has not yet been covered;,,,Perception,
+"Develop and practice professional skills and attitudes including: initiative, communication, time-management and teamwork skills in a business environment;",,,Complete Overt Response,
+Develop solutions to business problems using information technology and other techniques;,,,Adaptation,
+Prepare documentation and written reports of a professional standard;,,,Guided Response,
+Address performance improvement opportunities identified by industry supervisors and self-assess opportunities for personal development;,,,Guided Response,
+"Develop information technology skills (such as business process modelling, performance enhancement of installed software, updating current software and developing new software) in a complex, corporate business environment;",,,Complete Overt Response,
+Apply engineering synthesis and design processes in a business and information technology environment;,,,Originiation,
+Evaluate and critique the engineering approaches undertaken during the conduct and management of the projects.,,,Adaptation,
+Analyse critically the network architecture standards for open systems;,Analysing,-,,Relational
+Analyse critically and apply the ISO reference and Internet models;,Analysing,-,,Relational
+"Implement programs using internet working concepts, IP addressing, IPC and socket-level interface;",Applying,-,,Relational
+Analyse critically the fundamentals and technologies of cabled and wireless physical layer;,Analysing,-,,Relational
+Analyse critically the fundamentals and technologies of cabled and wireless data-link layer;,Analysing,-,,Relational
+"Analyse critically and implement the fundamentals and technologies of the network layer, including packet-switching and queueing concepts;",Analysing,-,,Relational
+"Analyse critically and implement designs based on the functions and architectures of cabled and wireless LAN and WAN, including ALOHA and CSMA/CD/CA models;",Analysing,-,,Relational
+Implement and evaluate system level designs based on LAN architecture for organisational requirements.,Evaluating,Valuing,,Relational
+Research relevant and reliable literature to evaluate the state of the field.,Evaluating,Valuing,,Extended abstract
+Analyse a problem and evaluate the potential of a solution or experiment.,Evaluating,Valuing,,Extended abstract 
+Appraise a complex engineering problem and investigate it using appropriate research methods and techniques.,Evaluating,Organisation,,Extended abstract 
+Integrate foundational and discipline-specific knowledge to solve complex open-ended problems.,Analysing,Organisation/Characterisation,,Extended abstract
+"Plan the scope and requirements of a research project or experiment, responding to changing requirements and potential interdisciplinary inputs.",Creating,Organisation,,Extended abstract
+"Generate research and technical outputs by applying appropriate techniques, resources and modern engineering tools to a complex open-ended engineering problem.",Creating,-,,Extended abstract
+"Demonstrate consideration of the ethics and norms which guide engineering practice, including professionalism, innovation and creativity.",Applying,Responding,,Extended abstract
+"Assess the social, health, safety, legal, cultural, commercial and political impacts of the identified project, as appropriate.",Evaluating,-,,Extended abstract
+"Assess the sustainability of your project within the appropriate discipline context, with consideration of the relevant sustainable development goals and indicators.",Evaluating,-,,Extended abstract
+Synthesise the progress and outputs of your project through professional engineering reports and presentations to a range of audiences including the community and industry.,Creating,Organization,,Extended abstract
+"Engage with project collaborators to achieve research outcomes using effective self and/or team management, review and improvement practices. (Applicable to the Clayton-based course)",Applying,-,,Extended abstract
+Describe the purpose of enterprise architectures and the underlying principles of their design;,,Responding,Perception,
+Explain individual IT systems and services as interrelated components of an enterprise-wide platform;,,Valuing,Set,
 "Implement knowledge of industry-standard enterprise architecture models, approaches, frameworks and standards;",,,,
-"Describe into the need for sound data, information and technology governance strategies;",,Recieving,,
+"Describe into the need for sound data, information and technology governance strategies;",,Recieving,Perception,
 "
 Implement substantively to decisions regarding the design of an enterprise architecture for an organisation;",,,,
 "
-Explain the alignment of an organisation's IT strategy, platforms and systems with the overall organisational strategy and management functions",,Valuing,,
+Explain the alignment of an organisation's IT strategy, platforms and systems with the overall organisational strategy and management functions",,"Valuing, organisation",Set,
+identify and explain big data concepts and technologies;,Creating,-,,Relational
+write and interpret parallel database processing algorithms and methods;,Applying,Responding,,Relational
+apply common data analytics and machine learning algorithms in a big data environment;,Applying,-,,Relational
+use and evaluate streaming methods in big data processing;,Evaluating,-,,Extended abstract
+use big data streaming technologies.,Appplying,Recieving,,Relational
 "
-Describe the steps involved in various manufacturing processes for production at scale, including their strengths and limitations.",,Responding,,
+Describe the steps involved in various manufacturing processes for production at scale, including their strengths and limitations.",,Responding,Perception,
 "
-Select appropriate part manufacturing processes while balancing functional requirements, performance, cost and sustainability.",,Responding,,
+Select appropriate part manufacturing processes while balancing functional requirements, performance, cost and sustainability.",,Responding,Perception,
 "
 Propose part design changes to improve suitability to given manufacturing processes.",,,,
 "
-Identify and carry out the necessary steps to conduct a small-scale production run and then reflect on the outcomes.",,Responding,,
-"
-Construct C language computer programs that deploy standard data types, arrays, control statements, functions, file processing, pointers, strings, recursion, arrays of pointers, linked lists, binary tree data structures and dynamic memory allocations.",,-,,
-"
-Construct basic assembly language programs that target a reduced instruction set computer (RISC) architecture.",,-,,
-"
-Evaluate the functionality and performance of these programs using software development tools.",,Valuing,,
-"
-Describe the operation of computer arithmetic, assemblers and compilers, a RISC processor datapath and solve related problems.",,Responding,,
-"Solve real-world engineering problems by designing ladder logic diagrams for programmable logic controllers (PLC) using components such as normally open contacts, normally closed contacts, relays, timers and counters.",,Characterisation,,
+Identify and carry out the necessary steps to conduct a small-scale production run and then reflect on the outcomes.",,Responding,Perception,
 "Apply principles and techniques of non-destructive testing (NDT), specifically dye penetration, magnetic particle, eddy current, ultrasonic radiography and optical inspection.",,-,,
 "
-Relate the capabilities and limitations of established NDT techniques to their respective basic working principles.",,Organisation,,
+Relate the capabilities and limitations of established NDT techniques to their respective basic working principles.",,Organization,,
 "
-Evaluate the various NDT methods for flaw detection and damage assessment and be able to identify the appropriate technique for a given scenario.",,Valuing,,
+Evaluate the various NDT methods for flaw detection and damage assessment and be able to identify the appropriate technique for a given scenario.",,"Valuing, Responding",,
 "
 Perform data acquisition and signal analysis related to NDT techniques and provide the solution of health and integrity of the test specimen.",,-,,
 "
 Communicate the result and analysis both in oral and written form.",,Responding,,
-Relate bioprocess organisms and their nutrient requirement to bioprocess considerations.,,Organisation,,
-Solve engineering problems related to design and operation of bioreactors.,,Characterisation,,
-"Apply principles of fluid flow, mixing, heat transfer and mass transfer to analysis of bioreactor performance.",,-,,
-Operate bioreactor and evaluate the performance of cell growth under different operating conditions.,,Responding,,
+Apply appropriate design methodology and engineering fundamentals such as mechanisms and electronics to design a mechatronics system that solves a manufacturing problem.,,,,
+"Use appropriate techniques, resources and modern engineering tools to achieve project goals.",,,,
+Justify and communicate technical details of a mechatronics solution(s) in written and oral forms.,,,,
+"Reflect on teamwork, project management, leadership and conflict resolution in the context of group projects and activities.",,Organization,,
+Conduct and deliver projects in an organised and coherent manner using professional management tools within the given time frame.,,,,
+Demonstrate an understanding of smart manufacturing through project development.,,Valuing,,
 "
-Address technical and practical issues in commercial bioprocessing by principles of biochemical engineering.",,-,,
+Appraise sensors in terms of their performance and characteristics, and apply transducer principles.",,,-,
 "
-Interpret and apply mathematical optimisation, linear algebra, and supervised and unsupervised learning to computer vision problems.",,-,,
+Construct a complete sensory system including specifying the electronic components required.",,,-,
 "
-Simulate cameras using projective and multi-view geometry to design model-based vision systems and algorithms that extract 3D and rotational information from images, alongside methods for image registration and stitching.",,Organisation,,
-"Differentiate between elements of the human visual system and computer vision pipelines, and reflect on the consequences for the design of algorithms for scene understanding.",,valuing,,
-"Generate and document implementations of low, mid and high-level vision processes such as filtering and structure from motion, image segmentation and clustering, and model fitting and tracking.",,-,,
-"Design ethical machine learning solutions to problems in computer vision, such as image classification, 3D reconstruction and pose estimation, object detection and semantic segmentation, by critically appraising information and publications.",,Organisation,,
+Describe sensory techniques as used in robotics and implement these concepts.",,,Perception,
 "
-Demonstrate the development, training and deployment of computer vision algorithms using a high-level programming language.",,Responding,,
+Design, construct and debug a small microprocessor system that is capable of interfacing to a series of different inputs and outputs.",,,Origination,
 "
-Identify the limits of human visual and aural perception, and how they can be exploited for bit rate reduction.",,Responding,,
-"
-Describe the structure of modern multimedia compression systems, and how they exploit the characteristics of both the media itself and human consumers of the media.",,Responding,,
-"
-Explain how media can be characterised and described, including methods that allow similarities to be automatically identified (e.g. music matching services).",,-,,
-"Compute the end-to-end delay performance of modern Internet protocols supporting media streaming, and relate this to service requirements for on-demand and communicative multimedia services.",,Organisation,,
-"
-Explain the methods of digital rights managements systems, including the role of encryption and key management, and the importance of such systems to enable high-value digital content retrieval services such as movies-on-demand.",,-,,
-"
-As part of a team, research and investigate an area of interest beyond lecture material, involving software simulations and analysis of results.",,Organisation,,
-"
-Describe concepts and fundamentals of deep learning, such as the backpropagation algorithm and adversarial learning.",,Responding,,
-"Discern and appreciate various forms of deep neural networks, such as multilayer perceptrons, convolution neural networks and recurrent neural networks.",,-,,
-"
-Interpret and apply the mathematics of deep learning, such as stochastic optimisation.",,-,,
-"
-Design deep learning solutions to problems in computer vision, natural language processing and signal processing. Examples are image classification, object detection, sequence modelling and filter design.",,Organisation,,
-"
-Demonstrate the training and deployment of neural networks using a high level programming language.",,Responding,,
-"
-Appraise critically the sources of information and contents of scientific publications and choose relevant information.",,Responding,,
-"
-Interpret and summarise the principles, instrumentation, theory, mathematical models, simulation techniques, fabrication and manufacturing techniques related to Microelectromechanical Systems (MEMS) and Organic electronics based devices",,-,,
-"
-Design and develop simple MEMS devices, organic electronic devices (such as Organic Light Emitting Diode) and theoretical models involving multi physics",,Organisation,,
-"
-Select suitable electronic components and develop simple MEMS or Organic electronic device based systems, evaluate structural and material properties of Micro/Nano devices through simulation studies",,Responding,,
-"
-Summarise fundamentals of nanotechnology and propose research opportunities in designing Micro technologies",,Valuing,,
-"Apply appropriate theories to effectively design solid-state lighting or SSL systems, including the visual and non-visual effects, colour spaces, quality metrics, efficiency, LED characteristics and other aspects such as LED drivers, spectral sensors, smart lighting control and visible light communications of Li-Fi.",,-,,
-"
-Assess the energy consumption of traditional versus SSL-based lighting approaches",,-,,
-"
-Design and implement a system to solve a given complex engineering problem in the field of Intelligent lighting control using the knowledge of SSL.",,Organisation,,
-"
-Conduct experiments to investigate various relationships in photometry, radiometry, colour quality, the energy consumption of light sources and the implementation of IoT-based lighting control.",,Organisation,,
-"
-Assess critically the research literature in the field of solid-state lighting to evaluate recent findings and directions in SSL technology",,Valuing,,
+Construct appropriate software and test processes to produce industry-ready products.",,,Guided Response,
