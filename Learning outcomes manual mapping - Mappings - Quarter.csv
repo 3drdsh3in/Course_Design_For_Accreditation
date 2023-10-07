@@ -1,0 +1,64 @@
+LO,Cognitive,Affective,Psychomotor,SOLO
+be critical and creative thinkers who are able to communicate effectively and perceptively to a variety of key stakeholders,,Responding,,
+be responsible and effective global citizens who engage in an internationalised world by being able to demonstrate cross cultural competencies and empathy whilst acting ethically and sustainably,,Characterisation,,
+"demonstrate broad knowledge and technical capabilities driven by an entrepreneurial mindset across a variety of domains including but not limited to the business, professional and public policy communities that we serve",,Valuing,,
+understand and be able to test critical issues relating to problem-solution fit,,Valuing,,
+develop and manage effective ways of working in a start-up team.,,Responding,,
+critically research and explore complex challenges to create and communicate innovative and informed ideas or solutions,,Responding,,
+"be an empathetic and global citizen who considers and creates value that is holistic and ethical, by challenging, integrating and accommodating differing world views",,Characterisation,,
+"demonstrate broad technical and soft skills aligned to innovation, to deliver value to people, businesses and society",,Valuing,,
+"communicate and rationalise a point of view that is evidence-based, persuasive and compelling.",,Responding,,
+Solve engineering problems related to design and operation of bioreactors.,,Characterisation,,
+"Identify and calculate the loads to which a bridge is subjected, according to first principles and relevant codes of practice.",,,Mechanism,
+Determine the structural behaviour various bridge types quantitatively and qualitatively using relevant hand- and computer-based methods.,,,Complex Overt Response,
+Design prestressed concrete beams for service and strength requirements.,,,Mechanism,
+"Describe the reliability basis for limit state design and its use in bridge assessment, including descriptions of the basic variables",,,Complex Overt Response,
+"Discuss bridge inspection and management procedures, including levels of assessment and condition rating approaches.",,,Complex Overt Response,
+Work effectively in a bridge design team and communicate engineering designs.,,,Complex Overt Response,
+Apply project evaluation techniques including the triple bottom line against the overall business model.,,Organisation,Adaptation,
+"Identify the elements of the project life cycle, including plan, control, and organise and allocate resources.",,Organisation,Complex Overt Response,
+"Evaluate and apply the basic tools and techniques to plan, organise and manage a project.",,Valuing,Mechanism,
+"Identify strategic constraints in managing the scope, time, cost and quality components.",,Recieving,Perception,
+"Discuss professional responsibility, occupational health and safety and ethical conduct.",,Valuing,Perception,
+"
+Describe and define appropriate models for the behaviour of key semiconductor electronic components (diodes, transistors, operational amplifiers) in circuits and summarise their uses.",,,Perception,
+"
+Demonstrate the development, training and deployment of computer vision algorithms using a high-level programming language.",,Responding,,
+"
+Describe the structure of modern multimedia compression systems, and how they exploit the characteristics of both the media itself and human consumers of the media.",,Responding,Perception,
+"
+Explain how media can be characterised and described, including methods that allow similarities to be automatically identified (e.g. music matching services).",,,Set,
+"Compute the end-to-end delay performance of modern Internet protocols supporting media streaming, and relate this to service requirements for on-demand and communicative multimedia services.",,Organization,Perception,
+"
+Explain the methods of digital rights managements systems, including the role of encryption and key management, and the importance of such systems to enable high-value digital content retrieval services such as movies-on-demand.",,,Set,
+"
+As part of a team, research and investigate an area of interest beyond lecture material, involving software simulations and analysis of results.",,Organization,,
+"
+Describe concepts and fundamentals of deep learning, such as the backpropagation algorithm and adversarial learning.",,Responding,Perception,
+"
+Demonstrate the training and deployment of neural networks using a high level programming language.",,Responding,,
+Apply theoretical engineering knowledge outside of the classroom.,,,Guided Response,
+Demonstrate understanding of engineering practice expectations and observe health and safety rules during professional practice experiences.,,,Guided Response,
+Value engineering ethical principles and responsibilities and satisfy professional standards for assigned engineering tasks.,,,Guided Response,
+Demonstrate an ability to work independently and to collaborate with colleagues on common tasks effectively.,,,Complete Overt Response,
+Engage in team discussion on the application of mathematics.,Understanding,,,Multistructural
+"Discern fundamental chemical, materials, mechanical and environmental engineering knowledge, principles and concepts to propose solutions to a humanitarian engineering problem.",Understanding,,,Multistructural
+"Determine appropriate principles of sustainable design and development, including embodied energy, renewable materials, availability, costs, etc, of a proposed solution using a systems approach to design.",Evaluating,,,Multistructural
+Discuss requirements of a smart system from component to integrated perspective.,Understanding,,,Multistructural
+"Analyse general problem solving strategies and algorithmic paradigms, and apply them to solving new problems;",Applying,,,Relational
+"Prove correctness of programs, analyse their space and time complexities;",Evaluating,,,Relational
+Translate problem statements into algorithms and implement them in a high level programming language;,Applying,,,Relational
+Theoretically and experimentally evaluate different implementations of basic abstract data types;,Evaluating,,,Relational
+"Iteratively apply object-oriented design principles to design small to medium-size software systems, using standard software engineering notations, namely UML class diagrams and UML interaction diagrams.",Evaluating,,,Relational
+"Describe the quality of object-oriented software designs, both in terms of meeting user requirements and the effective application of object-oriented design concepts and principles.",Understanding,,,Multistructural
+Apply effective programming strategies to refactor and debug object-oriented implementations systematically and efficiently by using available programming language tools.,Applying,,,Relational
+Apply quality assurance techniques such as modern code reviews to code development artefacts;,Applying,,,Relational
+"Assess aspects of quality assurance that are relevant to the context of the project, and evaluate strategies for ensuring quality standards are met for end users",Evaluating,,,Extended abstract
+Implement a relational database based on a sound database design;,Applying,,,None
+Develop programming structures within a database backend.,Creating,,,Extended abstract
+Analyse critically the network architecture standards for open systems;,Analysing,,,Relational
+"Analyse critically and implement the fundamentals and technologies of the network layer, including packet-switching and queueing concepts;",Analysing,,,Relational
+"Generate research and technical outputs by applying appropriate techniques, resources and modern engineering tools to a complex open-ended engineering problem.",Creating,,,Extended abstract
+"Assess the social, health, safety, legal, cultural, commercial and political impacts of the identified project, as appropriate.",Evaluating,,,Extended abstract
+"Assess the sustainability of your project within the appropriate discipline context, with consideration of the relevant sustainable development goals and indicators.",Evaluating,,,Extended abstract
+apply common data analytics and machine learning algorithms in a big data environment;,Applying,,,Relational
