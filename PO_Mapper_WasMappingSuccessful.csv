@@ -2,18 +2,18 @@
 LO1-MA,Describe the underlying theoretical basis of the relational database model and motivations,0,1,1,1,1,1,1,1,1,1,1,1,0.9166666666666666,True,0.0
 LO2-MA,Design a relational database model based on the underlying theoretical basis with the capability of evaluating different options,1,0,1,1,1,1,1,1,1,1,1,1,0.9166666666666666,True,0.08333333333333326
 LO3-MA,Implement a database based on a sound database design with constructing queries that meet user requirements,1,1,0,1,1,1,1,1,1,1,1,1,0.9166666666666666,True,0.0
-LO4-MA,Contrast the differences between non-relational database models and the relational database model.,0,1,1,1,1,1,1,1,1,1,1,1,0.9166666666666666,True,0.0
+LO4-MA,Contrast the differences between non-relational database models and the relational database model.,0,0,1,1,1,1,1,1,1,1,1,1,0.8333333333333334,False,-0.08333333333333326
 LO5-MA,Develop programming structures within a database backend.,1,1,0,1,1,1,1,1,1,1,1,1,0.9166666666666666,True,0.0
 LO1-MA,Discuss requirements of a smart system from component to integrated perspective.,0,1,1,1,1,1,1,1,1,1,1,1,0.9166666666666666,True,0.0
 LO2-MA,"Define programs using Python, discern problem-solving strategies in decomposing problems using algorithms and describe software engineering processes.",0,1,1,1,1,1,1,1,1,1,1,1,0.9166666666666666,True,0.25
 LO3-MA,Select fundamental circuit analysis techniques to solve problems in circuits that contain common electrical and electronic components.,0,1,1,1,1,1,1,1,1,1,1,1,0.9166666666666666,True,0.08333333333333326
-LO4-MA,"Propose a design solution in response to a given scenario through requirements and functional analysis, evaluate that solution from an integrated system perspective.",1,1,0,1,1,1,0,1,1,1,1,1,0.8333333333333334,False,-0.08333333333333326
+LO4-MA,"Propose a design solution in response to a given scenario through requirements and functional analysis, evaluate that solution from an integrated system perspective.",1,0,0,1,1,1,0,1,1,1,1,1,0.75,False,-0.16666666666666663
 LO5-MA,Identify appropriate engineering tools and techniques to develop and validate a solution.,1,1,1,1,0,1,1,1,1,1,1,1,0.9166666666666666,True,0.0
 LO6-MA,Identify the ethical considerations of data collection and analysis in engineering designs that may impact the suitability of solutions.,1,1,1,1,1,1,1,0,1,1,1,1,0.9166666666666666,True,0.08333333333333326
 LO7-MA,"Describe project progress and outputs to stakeholders in review meetings, demonstrations and documentation.",1,1,1,1,1,1,1,1,0,1,1,1,0.9166666666666666,True,0.0
 LO8-MA,Identify roles and responsibilities within a team and reflect on self and team behaviours that contribute to the successful conduct of a project.,1,1,1,1,1,1,1,1,1,0,1,1,0.9166666666666666,True,0.0
-LO1-MA,"Discern fundamental chemical, materials, mechanical and environmental engineering knowledge, principles and concepts to propose solutions to a humanitarian engineering problem.",1,1,1,1,1,1,1,1,1,1,1,1,1.0,True,0.5
-LO2-MA,Identify design requirements from a provided brief and analyse potential solutions using first principles of mathematics and natural and engineering sciences.,1,0,0,1,1,1,1,1,1,1,1,1,0.8333333333333334,True,0.08333333333333337
+LO1-MA,"Discern fundamental chemical, materials, mechanical and environmental engineering knowledge, principles and concepts to propose solutions to a humanitarian engineering problem.",0,1,1,1,1,1,1,1,1,1,1,1,0.9166666666666666,True,0.41666666666666663
+LO2-MA,Identify design requirements from a provided brief and analyse potential solutions using first principles of mathematics and natural and engineering sciences.,1,1,0,1,1,1,1,1,1,1,1,1,0.9166666666666666,True,0.16666666666666663
 LO3-MA,"Identify societal, health, safety, legal and cultural issues relevant to your project including the Indigenous context, and your consequent responsibilities as an engineer.",1,1,1,1,1,0,1,1,1,1,1,1,0.9166666666666666,False,-0.08333333333333337
 LO4-MA,"Determine appropriate principles of sustainable design and development, including embodied energy, renewable materials, availability, costs, etc, of a proposed solution using a systems approach to design.",1,0,1,1,1,1,0,1,1,1,1,1,0.8333333333333334,True,0.08333333333333337
 LO5-MA,"Discern the ethical considerations of working with diverse communities and stakeholders, and demonstrate your commitment to the Engineers Australia Code of Ethics and/or the Board of Engineers Malaysia Code of Professional Conduct, and established norms of professional conduct throughout your project.",1,1,1,1,1,1,1,0,1,1,1,1,0.9166666666666666,True,0.0
@@ -24,20 +24,20 @@ LO2-MA,"select and use appropriate tools, techniques and strategies to manage pr
 including time and personnel ",1,1,1,1,1,1,1,1,1,1,1,1,1.0,True,0.0
 LO3-MA,"identify potential sources of risk, including ethical risk, and devise and adopt appropriate strategies to monitor and mitigate these risks",1,0,1,1,1,1,1,1,1,1,1,1,0.9166666666666666,True,0.0
 LO4-MA,"choose and follow a software development methodology that is appropriate to the team, project and client, and justify this methodology",0,1,1,1,0,1,1,1,1,1,1,1,0.8333333333333334,False,-0.08333333333333326
-LO5-MA,elicit requirements from client representatives and ensure that these are communicated to team members and other stakeholders in an appropriate form,1,0,1,1,1,1,1,1,1,1,1,1,0.9166666666666666,True,0.0
+LO5-MA,elicit requirements from client representatives and ensure that these are communicated to team members and other stakeholders in an appropriate form,1,1,1,1,1,1,1,1,1,1,1,1,1.0,True,0.08333333333333337
 LO6-MA,"produce internal documentation of a sufficient quality to support project development 
 activities (including specification, analysis, design, testing); ",1,1,1,1,0,1,1,1,1,1,1,1,0.9166666666666666,True,0.08333333333333326
-LO7-MA,"communicate effectively with other project stakeholders, including clients, end users, and supervisors",1,1,1,0,1,1,1,1,0,1,1,1,0.8333333333333334,False,-0.08333333333333326
+LO7-MA,"communicate effectively with other project stakeholders, including clients, end users, and supervisors",1,1,1,0,1,0,1,1,0,1,1,1,0.75,False,-0.16666666666666663
 LO8-MA,"verify systematically that internal and external project deliverables meet agreed quality 
 standards ",1,1,1,1,1,0,1,1,1,1,1,1,0.9166666666666666,True,0.0
 LO9-MA,"produce external documentation of a sufficient quality to meet the needs of clients, end users, and client-site technical staff.",1,1,1,1,1,1,1,1,0,1,1,1,0.9166666666666666,True,0.0
 LO1-MA,Analyse general problem solving strategies and algorithmic paradigms,1,0,1,1,1,1,1,1,1,1,1,1,0.9166666666666666,True,0.0
 LO2-MA,"Prove correctness of programs, analyse their space and time complexities.",0,1,1,1,1,1,1,1,1,1,1,1,0.9166666666666666,True,0.0
-LO3-MA,Compare and contrast various abstract data types and use them appropriately.,1,1,1,0,1,1,1,1,1,1,1,1,0.9166666666666666,True,0.0
+LO3-MA,Compare and contrast various abstract data types and use them appropriately.,0,1,1,0,1,1,1,1,1,1,1,0,0.75,False,-0.16666666666666663
 LO4-MA,Develop and implement algorithms to solve computational problems.,1,1,0,0,1,0,1,1,1,1,1,1,0.75,False,-0.16666666666666663
-LO1-MA,Determine reactions and internal member forces in simple truss and beam systems and carry out limit state design to select appropriately sized members.,0,1,1,1,1,1,1,1,1,1,1,1,0.9166666666666666,True,0.08333333333333326
+LO1-MA,Determine reactions and internal member forces in simple truss and beam systems and carry out limit state design to select appropriately sized members.,0,0,1,1,1,1,1,1,1,1,1,1,0.8333333333333334,True,0.0
 LO2-MA,"Determine the strength of structural materials to inform engineering designs with considerations to performance. cost, sustainability and societal impact.",0,0,1,1,1,1,0,1,1,1,1,1,0.75,False,-0.16666666666666663
-LO3-MA,"Determine the steady-state performance of simple systems involving levers, gears, springs and pulleys using appropriate engineering problem-solving methodologies.",0,0,1,1,1,1,1,1,1,1,1,1,0.8333333333333334,True,0.0
+LO3-MA,"Determine the steady-state performance of simple systems involving levers, gears, springs and pulleys using appropriate engineering problem-solving methodologies.",0,0,1,1,1,1,0,1,1,1,1,1,0.75,False,-0.08333333333333337
 LO4-MA,"Analyse concept designs that solve engineering problems and justify finalised design with considerations of key variables, assumptions, and system boundaries.",1,0,1,1,1,1,1,1,1,1,1,1,0.9166666666666666,True,0.33333333333333326
 LO5-MA,Propose concept designs and develop a final design which balances competing requirements.,1,1,0,1,1,1,1,1,1,1,1,1,0.9166666666666666,False,-0.08333333333333337
 LO6-MA,"Identify appropriate engineering tools and techniques to develop, validate and convey designs and solutions.",1,1,1,1,0,1,1,1,1,1,1,1,0.9166666666666666,False,-0.08333333333333337
@@ -46,38 +46,38 @@ LO1-MA,"Apply suitable mathematical techniques to solve problems involving linea
 LO1-MA,Design object-oriented solutions for small to medium-size systems using standard software engineering notations such as UML diagrams. (C5),1,0,0,1,1,1,0,1,1,1,1,1,0.75,True,0.25
 LO2-MA,"Develop object-oriented designs in an object-oriented programming language such as Java, using object-oriented programming constructs such as classes, inheritance, abstract classes, and generics. (C5).",1,0,0,1,1,1,1,1,1,1,1,1,0.8333333333333334,False,-0.08333333333333326
 LO3-MA,"Apply available language tools, such as debuggers and profilers, and good programming practice to debug their implementations systematically and efficiently. (C3)",0,1,1,1,1,1,1,1,1,1,1,1,0.9166666666666666,True,0.0
-LO4-MA,"Evaluate the quality of object-oriented software designs both in terms of meeting user requirements and in terms of good design principles, using appropriate domain vocabulary. (C6)",1,0,1,1,0,1,1,1,1,1,1,1,0.8333333333333334,True,0.08333333333333337
+LO4-MA,"Evaluate the quality of object-oriented software designs both in terms of meeting user requirements and in terms of good design principles, using appropriate domain vocabulary. (C6)",1,0,1,1,0,1,0,1,1,1,1,1,0.75,True,0.0
 LO1-MA,"Apply knowledge of networking fundamentals, and advanced networking knowledge appropriate to solve complex networking problems and network design problems (C3)",0,1,1,0,1,0,1,1,1,1,1,1,0.75,True,0.16666666666666663
 LO2-MA,Analyse the computer network problems from different layers of Internet model using appropriate mechanism (C4),1,1,1,1,1,1,1,1,1,1,1,1,1.0,True,0.16666666666666663
-LO3-MA,Design wired and/or wireless networks that can optimise network performance subject to various resource constraints (C6),1,1,0,1,1,1,1,1,1,1,1,1,0.9166666666666666,False,-0.08333333333333337
+LO3-MA,Design wired and/or wireless networks that can optimise network performance subject to various resource constraints (C6),1,0,0,1,1,1,1,1,1,1,1,1,0.8333333333333334,False,-0.16666666666666663
 LO4-MA,Select and use appropriate techniques and software tools to investigate complex computer networking related practical problems,1,1,1,1,0,1,1,1,1,1,1,1,0.9166666666666666,True,0.0
 LO1-MA,Analyse simple logic circuits;,0,1,1,1,1,1,1,1,1,1,1,1,0.9166666666666666,True,0.0
 LO2-MA,Explain and analyse key processor components;,0,1,1,1,1,1,1,1,1,1,1,1,0.9166666666666666,True,0.0
 LO3-MA,Explain and analyse computer organisation;,1,0,1,1,1,1,1,1,1,1,1,1,0.9166666666666666,True,0.0
 LO4-MA,Write and debug simple assembly language programs;,1,1,0,1,1,1,1,1,0,1,1,1,0.8333333333333334,False,-0.08333333333333326
 LO5-MA,Use simulator programs to model computer system components.,1,1,1,1,0,1,1,1,1,1,1,1,0.9166666666666666,True,0.0
-LO1-MA,Apply engineering fundamentals to design a mechatronics system.,1,1,1,1,1,1,1,1,1,1,1,1,1.0,True,0.5
+LO1-MA,Apply engineering fundamentals to design a mechatronics system.,0,1,1,1,1,1,1,1,1,1,1,1,0.9166666666666666,True,0.41666666666666663
 LO2-MA,Design a complex mechatronics system that meets design requirements.,1,0,1,1,1,1,1,1,1,1,1,1,0.9166666666666666,True,0.16666666666666663
 LO3-MA,Propose an appropriate design methodology to achieve design requirements.,1,1,1,0,1,1,1,1,1,1,1,1,0.9166666666666666,True,0.0
 LO4-MA,"Identify and use appropriate techniques, resources and modern engineering tools to achieve the design requirements.",1,1,1,1,0,1,1,1,1,1,1,1,0.9166666666666666,False,-0.08333333333333337
 LO5-MA,Justify technical details of a mechatronics solution(s) in written and oral forms.,1,1,1,1,1,1,1,1,1,1,1,1,1.0,True,0.08333333333333337
 LO6-MA,Demonstrate the ability to work effectively as a member or leader in a diverse team.,1,1,1,1,1,1,1,1,0,1,1,1,0.9166666666666666,True,0.0
 LO7-MA,Manage a project and drive it to successful completion.,1,1,1,1,1,1,1,1,1,1,1,0,0.9166666666666666,True,0.0
-LO8-MA,Demonstrate an understanding of the motivation for engineers to carry out mechatronics design.,1,1,1,1,1,0,0,0,1,1,1,1,0.75,True,0.08333333333333337
+LO8-MA,Demonstrate an understanding of the motivation for engineers to carry out mechatronics design.,1,0,1,1,1,0,0,0,1,1,1,1,0.6666666666666666,True,0.0
 LO1-MA,"Carry out investigations to identify suitable software quality and quality assurance measures, including human review and inspection of code and non-code artifacts, as well as execution-based testing",0,1,1,1,1,1,1,1,1,1,1,1,0.9166666666666666,True,0.08333333333333326
 LO2-MA,"Apply specific and appropriate quality goals for a moderately-sized software development project, select an appropriate quality assurance strategy to give confidence that these quality goals can be achieved, and document this strategy appropriately in the context of a software process model",1,0,1,1,1,1,1,1,1,1,1,1,0.9166666666666666,True,0.08333333333333326
-LO3-MA,"Perform systematic, automated unit testing on source code modules, using both specification-based and code-based approaches, utilising automated testing frameworks, including faking and mocking tools",1,1,1,0,0,1,1,1,1,1,1,1,0.8333333333333334,True,0.0
-LO1-MA,evaluate different strategies for solving and translating problem statements into algorithms and implement them in a high level programming language.,0,1,1,1,1,1,1,1,1,1,1,1,0.9166666666666666,True,0.0
-LO2-MA,"summarise, compare, design, and theoretically and experimentally evaluate different algorithms and implementations of basic abstract data types such as stacks, queues, lists, trees, priority queues, heaps and hash tables.",1,1,0,1,1,1,1,1,1,1,1,1,0.9166666666666666,True,0.08333333333333326
-LO3-MA,"analyse algorithms by determining their best/worst case big O time complexity and recognize their limitations, both theoretical and practical.",1,0,1,1,1,1,1,1,1,1,1,1,0.9166666666666666,True,0.08333333333333326
-LO4-MA,deconstruct simple high-level code into assembly code such as MIPS R2000,1,1,1,1,0,1,1,1,1,1,1,1,0.9166666666666666,True,0.0
+LO3-MA,"Perform systematic, automated unit testing on source code modules, using both specification-based and code-based approaches, utilising automated testing frameworks, including faking and mocking tools",1,1,1,0,0,0,1,1,1,1,1,1,0.75,False,-0.08333333333333337
+LO1-MA,evaluate different strategies for solving and translating problem statements into algorithms and implement them in a high level programming language.,1,1,1,1,1,1,1,1,1,1,1,0,0.9166666666666666,True,0.0
+LO2-MA,"summarise, compare, design, and theoretically and experimentally evaluate different algorithms and implementations of basic abstract data types such as stacks, queues, lists, trees, priority queues, heaps and hash tables.",0,1,0,1,1,1,1,1,1,1,1,0,0.75,False,-0.08333333333333337
+LO3-MA,"analyse algorithms by determining their best/worst case big O time complexity and recognize their limitations, both theoretical and practical.",1,1,1,1,1,1,1,1,1,1,1,1,1.0,True,0.16666666666666663
+LO4-MA,deconstruct simple high-level code into assembly code such as MIPS R2000,1,0,1,1,0,1,1,1,1,1,1,1,0.8333333333333334,False,-0.08333333333333326
 LO1-MA,Model and design flexible software at the architectural level using various tools and techniques;,1,1,0,1,1,1,1,1,1,1,1,1,0.9166666666666666,True,0.08333333333333326
 LO2-MA,Analyse and design software systems taking into consideration various quality attributes and requirements;,1,0,1,1,1,1,1,1,1,1,1,1,0.9166666666666666,True,0.16666666666666663
 LO3-MA,"Analyse, identify, and take requirements for simple systems and develop software architectures and designs at a high level",1,1,1,0,1,1,1,1,1,1,1,1,0.9166666666666666,True,0.0
 LO4-MA,Identify and use configuration management tools effectively,1,1,1,1,1,1,1,1,1,1,1,1,1.0,True,0.08333333333333337
 LO5-MA,"Apply a variety of design patterns, frameworks and architectures in designing software;",0,1,1,1,1,1,1,1,1,1,1,1,0.9166666666666666,True,0.16666666666666663
 LO6-MA,"Identify, locate and use off-the-shelf components in the construction of software.",1,1,1,1,0,1,1,1,0,1,1,1,0.8333333333333334,False,-0.08333333333333326
-LO1-MA,Describe industry-standard team-based project management methodologies and apply them across a multi-functional team to achieve optimal project progress,0,1,1,1,1,1,1,1,0,1,1,1,0.8333333333333334,True,0.0
+LO1-MA,Describe industry-standard team-based project management methodologies and apply them across a multi-functional team to achieve optimal project progress,0,1,1,1,0,1,1,1,0,1,1,1,0.75,False,-0.08333333333333337
 LO2-MA,Plan and manage the full range of activities in a software engineering project in accordance with the development methodology,1,0,1,1,1,1,1,1,1,1,1,0,0.8333333333333334,True,0.16666666666666674
 LO3-MA,Apply soft skills when engaging stakeholders in a consistent and professional manner to determine functional and non-functional requirements,1,1,0,1,1,1,1,1,1,1,0,1,0.8333333333333334,False,-0.08333333333333326
 LO4-MA,"Identify aspects of quality that are important in the context of the project, and devise and implement strategies for ensuring quality goals are met;",1,1,1,0,1,1,1,1,1,1,1,1,0.9166666666666666,True,0.08333333333333326
@@ -85,7 +85,7 @@ LO5-MA,Compare and analyse appropriate industry-standard technologies to determi
 LO6-MA,"Analyse and deliberate professional issues occurring within the development and deployment of software applications, and identify appropriate actions based on relevant law and industry codes of ethical behaviour",1,1,1,1,1,1,1,0,1,1,1,1,0.9166666666666666,True,0.0
 LO1-MA,"Apply project evaluation techniques including the triple bottom line against the overall business model and identify the elements of the project life cycle, including planning, controlling, and organizing to allocate resources.",1,1,1,1,1,1,1,1,1,1,1,1,1.0,True,0.16666666666666663
 LO2-MA,"Evaluate and apply the basic tools and techniques to plan, organize, and manage a project and Identify strategic constraints in managing the scope, time, cost and quality components.",0,1,1,1,1,1,1,1,1,1,1,1,0.9166666666666666,True,0.0
-LO3-MA,"Evaluate the interconnection of quality, heath, safety, risk and contract management and assess the consequent responsibilities relevant to professional engineering practice.",0,1,1,1,1,1,1,0,1,1,1,0,0.75,False,-0.25
+LO3-MA,"Evaluate the interconnection of quality, heath, safety, risk and contract management and assess the consequent responsibilities relevant to professional engineering practice.",0,1,1,1,1,0,1,0,1,1,1,0,0.6666666666666666,False,-0.33333333333333337
 LO4-MA,Understand and evaluate the need for sustainability and the impact of professional engineering work in the solution of Civil engineering problems in environmental context.,1,0,1,1,1,1,1,1,1,1,1,1,0.9166666666666666,True,0.25
 LO5-MA,Explain the contract laws and apply ethical principles and commit to professional ethics and responsibilities and the norms of engineering practice.,0,1,1,1,1,1,1,1,1,1,1,0,0.8333333333333334,True,0.0
-LO6-MA,Communicate effectively on complex Civil engineering activities with the engineering community in both oral and written form.,0,1,1,1,1,1,1,1,1,1,1,1,0.9166666666666666,True,0.33333333333333326
+LO6-MA,Communicate effectively on complex Civil engineering activities with the engineering community in both oral and written form.,1,1,1,1,1,1,1,1,0,1,1,1,0.9166666666666666,True,0.33333333333333326
