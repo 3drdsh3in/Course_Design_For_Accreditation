@@ -1,0 +1,131 @@
+LO,Cognitive,Affective,Psychomotor,SOLO
+be critical and creative thinkers who are able to communicate effectively and perceptively to a variety of key stakeholders,,Responding,,
+be responsible and effective global citizens who engage in an internationalised world by being able to demonstrate cross cultural competencies and empathy whilst acting ethically and sustainably,,Characterisation,,
+"demonstrate broad knowledge and technical capabilities driven by an entrepreneurial mindset across a variety of domains including but not limited to the business, professional and public policy communities that we serve",,Valuing,,
+understand and be able to test critical issues relating to problem-solution fit,,Valuing,,
+develop and manage effective ways of working in a start-up team.,,Responding,,
+critically research and explore complex challenges to create and communicate innovative and informed ideas or solutions,,Responding,,
+"be an empathetic and global citizen who considers and creates value that is holistic and ethical, by challenging, integrating and accommodating differing world views",,Characterisation,,
+"demonstrate broad technical and soft skills aligned to innovation, to deliver value to people, businesses and society",,Valuing,,
+"communicate and rationalise a point of view that is evidence-based, persuasive and compelling.",,Responding,,
+Relate bioprocess organisms and their nutrient requirement to bioprocess considerations.,,Organization,Perception,
+Solve engineering problems related to design and operation of bioreactors.,,Characterisation,,
+"Identify and calculate the loads to which a bridge is subjected, according to first principles and relevant codes of practice.",,,Mechanism,
+Determine the structural behaviour various bridge types quantitatively and qualitatively using relevant hand- and computer-based methods.,,,Complex Overt Response,
+Design prestressed concrete beams for service and strength requirements.,,,Mechanism,
+"Describe the reliability basis for limit state design and its use in bridge assessment, including descriptions of the basic variables",,,Complex Overt Response,
+"Discuss bridge inspection and management procedures, including levels of assessment and condition rating approaches.",,,Complex Overt Response,
+Work effectively in a bridge design team and communicate engineering designs.,,,Complex Overt Response,
+Apply project evaluation techniques including the triple bottom line against the overall business model.,,Organisation,Adaptation,
+"Identify the elements of the project life cycle, including plan, control, and organise and allocate resources.",,Organisation,Complex Overt Response,
+"Evaluate and apply the basic tools and techniques to plan, organise and manage a project.",,Valuing,Mechanism,
+"Identify strategic constraints in managing the scope, time, cost and quality components.",,Recieving,Perception,
+"Discuss professional responsibility, occupational health and safety and ethical conduct.",,Valuing,Perception,
+"
+Describe the operation of computer arithmetic, assemblers and compilers, a RISC processor datapath and solve related problems.",,Responding,Perception,
+"
+Describe and define appropriate models for the behaviour of key semiconductor electronic components (diodes, transistors, operational amplifiers) in circuits and summarise their uses.",,,Perception,
+"
+Simulate cameras using projective and multi-view geometry to design model-based vision systems and algorithms that extract 3D and rotational information from images, alongside methods for image registration and stitching.",,Organization,Origination,
+"Differentiate between elements of the human visual system and computer vision pipelines, and reflect on the consequences for the design of algorithms for scene understanding.",,valuing,Perception,
+"Design ethical machine learning solutions to problems in computer vision, such as image classification, 3D reconstruction and pose estimation, object detection and semantic segmentation, by critically appraising information and publications.",,Organization,Origination,
+"
+Demonstrate the development, training and deployment of computer vision algorithms using a high-level programming language.",,Responding,,
+"
+Identify the limits of human visual and aural perception, and how they can be exploited for bit rate reduction.",,Responding,Perception,
+"
+Describe the structure of modern multimedia compression systems, and how they exploit the characteristics of both the media itself and human consumers of the media.",,Responding,Perception,
+"
+Explain how media can be characterised and described, including methods that allow similarities to be automatically identified (e.g. music matching services).",,,Set,
+"Compute the end-to-end delay performance of modern Internet protocols supporting media streaming, and relate this to service requirements for on-demand and communicative multimedia services.",,Organization,Perception,
+"
+Explain the methods of digital rights managements systems, including the role of encryption and key management, and the importance of such systems to enable high-value digital content retrieval services such as movies-on-demand.",,,Set,
+"
+As part of a team, research and investigate an area of interest beyond lecture material, involving software simulations and analysis of results.",,Organization,,
+"
+Describe concepts and fundamentals of deep learning, such as the backpropagation algorithm and adversarial learning.",,Responding,Perception,
+"
+Demonstrate the training and deployment of neural networks using a high level programming language.",,Responding,,
+"
+Conduct experiments to investigate various relationships in photometry, radiometry, colour quality, the energy consumption of light sources and the implementation of IoT-based lighting control.",,Organization,,
+"
+Assess critically the research literature in the field of solid-state lighting to evaluate recent findings and directions in SSL technology",,Valuing,,
+Apply theoretical engineering knowledge outside of the classroom.,,,Guided Response,
+Demonstrate understanding of engineering practice expectations and observe health and safety rules during professional practice experiences.,,,Guided Response,
+Value engineering ethical principles and responsibilities and satisfy professional standards for assigned engineering tasks.,,,Guided Response,
+Demonstrate an ability to work independently and to collaborate with colleagues on common tasks effectively.,,,Complete Overt Response,
+"Identify, select and derive fundamental mathematical techniques from linear algebra, multi-variable calculus and ordinary differential equations that are essential to engineering applications.",Remembering,,,Unistructural
+Apply mathematical techniques to solve engineering problems.,Applying,,,Relational
+Discuss best practices in the presentation of written mathematical arguments.,Understanding,,,Multistructural
+Engage in team discussion on the application of mathematics.,Understanding,,,Multistructural
+"Discern fundamental chemical, materials, mechanical and environmental engineering knowledge, principles and concepts to propose solutions to a humanitarian engineering problem.",Understanding,,,Multistructural
+Identify design requirements from a provided brief and analyse potential solutions using first principles of mathematics and natural and engineering sciences.,Analysing,,,Relational
+"Identify societal, health, safety, legal and cultural issues relevant to your project including the Indigenous context, and your consequent responsibilities as an engineer.",Remembering,,,Unistructural
+"Determine appropriate principles of sustainable design and development, including embodied energy, renewable materials, availability, costs, etc, of a proposed solution using a systems approach to design.",Evaluating,,,Multistructural
+Discuss requirements of a smart system from component to integrated perspective.,Understanding,,,Multistructural
+"Define programs using Python, discern problem-solving strategies in decomposing problems using algorithms and describe software engineering processes.",Understanding,,Perception,Multistructural
+Select fundamental circuit analysis techniques to solve problems in circuits that contain common electrical and electronic components.,Understanding,,Perception,Multistructural
+"Propose a design solution in response to a given scenario through requirements and functional analysis, evaluate that solution from an integrated system perspective.",Evaluating,,Origination,Relational
+Identify appropriate engineering tools and techniques to develop and validate a solution.,Understanding,,Perception,Unistructural
+Identify the ethical considerations of data collection and analysis in engineering designs that may impact the suitability of solutions.,Understanding,,Perception,Unistructural
+"Describe project progress and outputs to stakeholders in review meetings, demonstrations and documentation.",Understanding,,Perception,Multistructural
+Identify roles and responsibilities within a team and reflect on self and team behaviours that contribute to the successful conduct of a project.,Analysing,,Perception,Relational
+"Analyse general problem solving strategies and algorithmic paradigms, and apply them to solving new problems;",Applying,,,Relational
+"Prove correctness of programs, analyse their space and time complexities;",Evaluating,,,Relational
+Compare and contrast various abstract data types and use them appropriately;,Evaluating,Organisation,,Relational
+Develop and implement algorithms to solve computational problems.,Applying,Characterisation,,Relational
+Translate problem statements into algorithms and implement them in a high level programming language;,Applying,,,Relational
+Theoretically and experimentally evaluate different implementations of basic abstract data types;,Evaluating,,,Relational
+"Iteratively apply object-oriented design principles to design small to medium-size software systems, using standard software engineering notations, namely UML class diagrams and UML interaction diagrams.",Evaluating,,,Relational
+"Describe the quality of object-oriented software designs, both in terms of meeting user requirements and the effective application of object-oriented design concepts and principles.",Understanding,,,Multistructural
+Apply effective programming strategies to refactor and debug object-oriented implementations systematically and efficiently by using available programming language tools.,Applying,,,Relational
+Apply quality assurance techniques such as modern code reviews to code development artefacts;,Applying,,,Relational
+"Perform systematic, automated unit testing on source code modules, using both specification-based and code-based approaches, utilising automated testing frameworks, including faking and mocking tools;",Applying,Responding,,Multistructural
+"Perform integration and system testing on a moderately-sized software system, using continuous integration frameworks and tracing tests back to requirements;",Applying,Responding,,Multistructural
+"Evaluate and apply appropriate design patterns, frameworks and architectures in designing software;",Evaluating,Valuing,,Relational
+Compare and analyse appropriate industry-standard technologies to determine the optimal combination of software required to support project development,Evaluating,Organisation,,Relational
+"Assess aspects of quality assurance that are relevant to the context of the project, and evaluate strategies for ensuring quality standards are met for end users",Evaluating,,,Extended abstract
+Implement a relational database based on a sound database design;,Applying,,,None
+"Manage data that meets user requirements, including queries and transactions;",Evaluating,Organisation,,Relational
+Develop programming structures within a database backend.,Creating,,,Extended abstract
+"Choose and follow a software development methodology that is appropriate to the team, project and client, and justify this methodology;",Evaluating,Responding,,Relational
+"Elicit functional and non-functional requirements, including human aspects requirements, from client representatives and ensure that these are communicated to team members and other stakeholders in an appropriate form",Analysing,,,Relational
+"Communicate effectively with a diverse range of project stakeholders, including clients, end users, and supervisors",Applying,Responding,,Multistructural
+"Verify systematically that internal and external project deliverables meet agreed quality standards, such as functionality, security and usability",Evaluating,,,Relational
+Set achievable and measurable goals;,,,Set,
+"Develop and practice professional skills and attitudes including: initiative, communication, time-management and teamwork skills in a business environment;",,,Complete Overt Response,
+Develop solutions to business problems using information technology and other techniques;,,,Adaptation,
+Prepare documentation and written reports of a professional standard;,,,Guided Response,
+Address performance improvement opportunities identified by industry supervisors and self-assess opportunities for personal development;,,,Guided Response,
+Apply engineering synthesis and design processes in a business and information technology environment;,,,Originiation,
+Evaluate and critique the engineering approaches undertaken during the conduct and management of the projects.,,,Adaptation,
+Analyse critically the network architecture standards for open systems;,Analysing,,,Relational
+"Analyse critically and implement the fundamentals and technologies of the network layer, including packet-switching and queueing concepts;",Analysing,,,Relational
+Research relevant and reliable literature to evaluate the state of the field.,Evaluating,Valuing,,Extended abstract
+Analyse a problem and evaluate the potential of a solution or experiment.,Evaluating,Valuing,,Extended abstract 
+Integrate foundational and discipline-specific knowledge to solve complex open-ended problems.,Analysing,Organisation,,Extended abstract
+"Plan the scope and requirements of a research project or experiment, responding to changing requirements and potential interdisciplinary inputs.",Creating,Organisation,,Extended abstract
+"Generate research and technical outputs by applying appropriate techniques, resources and modern engineering tools to a complex open-ended engineering problem.",Creating,,,Extended abstract
+"Demonstrate consideration of the ethics and norms which guide engineering practice, including professionalism, innovation and creativity.",Applying,Responding,,Extended abstract
+"Assess the social, health, safety, legal, cultural, commercial and political impacts of the identified project, as appropriate.",Evaluating,,,Extended abstract
+"Assess the sustainability of your project within the appropriate discipline context, with consideration of the relevant sustainable development goals and indicators.",Evaluating,,,Extended abstract
+Synthesise the progress and outputs of your project through professional engineering reports and presentations to a range of audiences including the community and industry.,Creating,Organization,,Extended abstract
+Describe the purpose of enterprise architectures and the underlying principles of their design;,,Responding,Perception,
+Explain individual IT systems and services as interrelated components of an enterprise-wide platform;,,Valuing,Set,
+"Describe into the need for sound data, information and technology governance strategies;",,Recieving,Perception,
+"
+Explain the alignment of an organisation's IT strategy, platforms and systems with the overall organisational strategy and management functions",,Valuing,Set,
+identify and explain big data concepts and technologies;,Creating,,,Relational
+apply common data analytics and machine learning algorithms in a big data environment;,Applying,,,Relational
+"
+Describe the steps involved in various manufacturing processes for production at scale, including their strengths and limitations.",,Responding,Perception,
+"
+Select appropriate part manufacturing processes while balancing functional requirements, performance, cost and sustainability.",,Responding,Perception,
+"
+Identify and carry out the necessary steps to conduct a small-scale production run and then reflect on the outcomes.",,Responding,Perception,
+"
+Describe sensory techniques as used in robotics and implement these concepts.",,,Perception,
+"
+Design, construct and debug a small microprocessor system that is capable of interfacing to a series of different inputs and outputs.",,,Origination,
+"
+Construct appropriate software and test processes to produce industry-ready products.",,,Guided Response,
